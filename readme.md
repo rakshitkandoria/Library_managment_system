@@ -46,15 +46,15 @@ If the user selects continue, they can pick another book.
 If the user selects exit, the program will end.
 ## Screenshots
 ### Screenshot 1: Program Starting Screen
-<img width="474" alt="image" src="https://github.com/user-attachments/assets/db3ec485-9f82-430c-956a-db949fbee5d6" />
+<img width="456" alt="image" src="https://github.com/user-attachments/assets/52efe60d-bc53-402d-8d6e-40e7cb2fdca7" />
 
 ### Screenshot 2: Book Details Screen
 
-![Screenshot 2024-12-15 203737](https://github.com/user-attachments/assets/b4844e25-025b-4b54-a27a-bd76862b35d3)
+<img width="502" alt="image" src="https://github.com/user-attachments/assets/064bbf3b-bee2-44a7-85a6-d912d0e38f9c" />
 
 ### Screenshot 3: User Decision (Continue or Exit)
 
-<img width="268" alt="image" src="https://github.com/user-attachments/assets/f82cc01f-af8e-4d6e-a435-70b6ec980e25" />
+<img width="358" alt="image" src="https://github.com/user-attachments/assets/9807b183-d55d-421c-85cc-c650cd6782f9" />
 
 ## Requirements
 - Python 3.x: Make sure you have Python 3.x or higher installed on your computer.
